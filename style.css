@@ -39,6 +39,8 @@ body {
 }
 
 .barra {
+    font-size: 25px;
+    font-weight: bold;
     width: 250px;
     height: 30px;
     border-radius: 20px;
